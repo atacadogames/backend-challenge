@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CEL APPLE IPHONE XR 256GB CPO A1984LL/A SPACE/GRAY",
+    "price": 1090,
+    "sku": 999999999,
+    "product_detail": {
+      "Marca": "Apple",
+      "Modelo": "Iphone XR",
+      "Cor": "Space Gray"
+    }
+  },
+  {
+    "name": "CEL XIAOMI MI A3 DS/4RAM/64GB 6.08\" CINZA (INDO)",
+    "price": 412,
+    "sku": 88888888,
+    "product_detail": {
+      "Marca": "Xioami",
+      "Modelo": "Mi A3",
+      "Cor": "Cinza",
+      "Tamanho da tela": "6,01 polegadas, 88,7 cm 2 (~ proporção 80,3% do ecrã para o corpo)"
+    }
+  }
+]
